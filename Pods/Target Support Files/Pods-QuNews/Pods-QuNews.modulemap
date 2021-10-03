@@ -1,0 +1,6 @@
+framework module Pods_QuNews {
+  umbrella header "Pods-QuNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
