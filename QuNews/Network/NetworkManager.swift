@@ -8,7 +8,7 @@
 
 import Foundation
 import UIKit
-
+ 
 final class NetworkManager {
     static let shared = NetworkManager()
     private let newsURL = "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=d03a3d74ac3f4e79994072da491a0b98"
